@@ -3,9 +3,9 @@
 I'm a Software Engineer with an extensive background in web development. Currently, I'm doing iOS development with SwiftUI as a stint into Native Mobile Engineering world. Investigating the possibilities of integrating NLP into client products.
 
 ## 🌟 Notable Achievements
+- Successfully delivered some software projects within schedule
 - Helped grow the consultancy I work at from 7 to 28 people
-- Successfully delivered various software projects within expected schedule (yes, it does happen sometimes 😉)
-- I've done some mentoring with a few junior engineers with good results
+- Mentoring of several junior engineers with good results
 
 ## 🛠️ Technical Skills
 - Web Engineering
