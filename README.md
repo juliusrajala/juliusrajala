@@ -2,10 +2,10 @@
 
 I'm a Software Engineer with an extensive background in web development. Currently, I'm doing iOS development with SwiftUI as a stint into Native Mobile Engineering world. Investigating the possibilities of integrating NLP into client products.
 
-## 🌟 Notable Achievements
+## 🌟 Notable Experiences
 - Successfully delivered some software projects within schedule
-- Helped grow the consultancy I work at from 7 to 28 people
 - Mentoring of several junior engineers with good results
+- Three years of work at the core of Identio's engineering culture, ways of working and engineer training.
 
 ## 🛠️ Technical Skills
 - Web Engineering
