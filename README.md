@@ -2,7 +2,7 @@
 
 I'm a software engineer with an interest in working teams, organizations and software. I've worked most of my career in consulting with a recent pivot to the startup world, where I'm building engineering analytics tools at Swarmia.
 
-## ⚙️ NotableExperience
+## ⚙️ Notable experience
 - 10 years of consulting experience
 - Software product design and delivery
 - Agile development
